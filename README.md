@@ -1,0 +1,1 @@
+# bspwm-auto-rice-dots
