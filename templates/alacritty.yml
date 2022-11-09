@@ -1,31 +1,31 @@
 colors:
   primary:
     background: '0x{color0}'
-    foreground: '0x{color5}'
+    foreground: '0x{color7}'
 
   cursor:
     text: '0x{color0}'
-    cursor: '0x{color5}'
+    cursor: '0x{color7}'
 
   normal:
     black:   '0x{color0}'
-    red:     '0x{color8}'
-    green:   '0x{color11}'
-    yellow:  '0x{color10}'
-    blue:    '0x{color13}'
-    magenta: '0x{color14}'
-    cyan:    '0x{color12}'
-    white:   '0x{color5}'
+    red:     '0x{color9}'
+    green:   '0x{color10}'
+    yellow:  '0x{color11}'
+    blue:    '0x{color12}'
+    magenta: '0x{color13}'
+    cyan:    '0x{color14}'
+    white:   '0x{color15}'
 
   bright:
-    black:   '0x{color3}'
-    red:     '0x{color9}'
-    green:   '0x{color1}'
-    yellow:  '0x{color2}'
-    blue:    '0x{color4}'
-    magenta: '0x{color6}'
-    cyan:    '0x{color15}'
-    white:   '0x{color7}'
+    black:   '0x{color0}'
+    red:     '0x{color3}'
+    green:   '0x{color0}'
+    yellow:  '0x{color8}'
+    blue:    '0x{color0}'
+    magenta: '0x{color15}'
+    cyan:    '0x{color0}'
+    white:   '0x{color15}'
 
 
 draw_bold_text_with_bright_colors: false
