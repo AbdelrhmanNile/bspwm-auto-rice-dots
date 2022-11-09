@@ -18,7 +18,7 @@ colors:
     white:   '0x{color15}'
 
   bright:
-    black:   '0x{color0}'
+    black:   '0x{color8}'
     red:     '0x{color3}'
     green:   '0x{color0}'
     yellow:  '0x{color8}'
