@@ -22,7 +22,7 @@ colors:
     red:     '0x{color3}'
     green:   '0x{color0}'
     yellow:  '0x{color8}'
-    blue:    '0x{color0}'
+    blue:    '0x{color10}'
     magenta: '0x{color15}'
     cyan:    '0x{color0}'
     white:   '0x{color15}'
